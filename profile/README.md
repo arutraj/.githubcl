@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Expense Repos | https://github.com/orgs/expenseapp-v1/repositories | |
 | Node Making |	https://youtu.be/JwqtkS3Qk4k |
 | Project Document|https://learndevopsonline.github.io/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9 | |
 | Miro Link | https://miro.com/app/board/uXjVKRITCkw=/?share_link_id=549438704149 | |
